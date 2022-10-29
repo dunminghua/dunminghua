@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dunming Hua
-- 👀 I’m interested in data mining, programming, financial etc.
+- 👀 I’m interested in data mining, programming, algorithm etc.
 - 🌱 I’m currently learning Sun Yat-sen University, ShenZhen.
 - 📫 My email is dunminghua@gmail.com.
 
